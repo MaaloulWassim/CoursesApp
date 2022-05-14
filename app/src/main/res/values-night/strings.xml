@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login_here">Already a User ? Login Here</string>
+    <string name="add_your_course">Add Your Course</string>
+    <string name="enter_course_description">Enter Course Description</string>
+    <string name="enter_course_image_link">Enter Course Image Link</string>
+    <string name="enter_course_suited_for">Enter Course Suited For</string>
+    <string name="enter_course_price">Enter Course Price</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="price">Price</string>
+    <string name="suited_for">Suited for</string>
+    <string name="edit_course">Edit Course</string>
+
+</resources>
